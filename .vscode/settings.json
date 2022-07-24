@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.configureArgs": [
+        "-DCMAKE_EXPORT_COMPILE_COMMANDS=1",
+        //"-DCMAKE_TOOLCHAIN_FILE=C:\\files\\dev\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
+    ],
+    "cmake.generator": "Ninja",
+    "cmake.buildArgs": [
+        //"-D_WIN32"
+    ]
+}

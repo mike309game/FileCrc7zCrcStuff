@@ -1,0 +1,7 @@
+#clang
+.cache/
+
+bin/*
+!bin/splitsplot.cpp
+build/
+lbuild/
